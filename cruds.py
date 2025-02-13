@@ -49,9 +49,20 @@ def control_usarios():
 
 
 def nuevo_plan ():
-    print("Fibra Optica")
-    print("Planes pospago")
-    print("Planes Prepago")
+    print("1. Fibra Optica")
+    print("2. Planes pospago")
+    print("3. Planes Prepago")
+    print("¿Cual deseas ver?:")
+
+
+
+def fibra_optica ():
+    print("1. 8 gigas = 120.000/men")
+    print("2. 12 gigas = 200.000 mensuales")
+    print("Selecciona tu plan:")
+
+
+
 
 def tec_movistar ():
     print("1. PINEAPLLE 100 PRRO MAS 128 YIGAS")
