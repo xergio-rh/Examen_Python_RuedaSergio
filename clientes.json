@@ -1,0 +1,46 @@
+{
+    "Clientes":[
+    {
+        "id": "1",
+        "nombre": "Pedro Felipe",
+        "direccion": "Calle 30 #4a-17",
+        "telefono": "3163644960",
+        "tiempo": "2 años"
+    },
+    {
+        "id": "2",
+        "nombre": "Mateo",
+        "direccion": "Calle 56 #27-23",
+        "telefono": "3214183061",
+        "tiempo": "10 años"
+    },
+    {
+        "id": "3",
+        "nombre": "Ana Elizabeth",
+        "direccion": "Calle 24 #33-16",
+        "telefono": "3182504192",
+        "tiempo": "5 años"
+    },
+    {
+        "id": "4",
+        "nombre": "Cristian Felipe",
+        "direccion": "Carrera 2w #2-23",
+        "telefono": "3023876390",
+        "tiempo": "1 año"
+        
+    }   
+
+
+
+
+    ]
+
+
+
+
+
+    
+
+
+
+}
